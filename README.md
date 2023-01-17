@@ -3,6 +3,10 @@ This is a simple readme file
 
 ##Heading 2
 
-just doing something->checking for stash again
+<<<<<<< Updated upstream
+just doing something third stash
+=======
+just doing something and move
+>>>>>>> Stashed changes
 
 
